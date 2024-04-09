@@ -1,10 +1,6 @@
 ### Hi there 👋
-<br>
+<br> 
 
-<!--
-**pedroadolf/pedroadolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
 🏈🧘🏻‍♂️🚴🏻‍♂️ About Me 🇲🇽🇫🇷🇪🇸:
 <br>
 
@@ -69,4 +65,4 @@ Call to action: Connect with experienced developers and collaborate on projects.
 ---
 [![](https://visitcount.itsvg.in/api?id=pedroadolf&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM  ( https://gprm.itsvg.in ) -->
+
